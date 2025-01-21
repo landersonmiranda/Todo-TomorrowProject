@@ -1,3 +1,3 @@
 # Todo-TomorrowProject
 
-Esse projeto se trata de um CRUD todo feito em java/Spring boot
+Esse projeto se trata de um CRUD To-do feito em java/Spring boot
